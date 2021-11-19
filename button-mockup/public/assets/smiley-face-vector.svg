@@ -1,0 +1,10 @@
+<?xml version="1.0"?><svg width="47" height="47" xmlns="http://www.w3.org/2000/svg">
+ <title>Thumbs up smiley</title>
+ <g>
+  <title>Layer 1</title>
+  <circle r="19" cy="23" cx="22.75" stroke-width="2" stroke="black" fill="#ffffff" id="svg_1"/>
+  <circle r="2" cy="18" cx="28.75" fill="black" id="svg_2"/>
+  <circle r="2" cy="18" cx="16.75" fill="black" id="svg_3"/>
+  <path d="m34.060299,23a11.3103,11.3103 0 0 1 -22.620599,0" stroke-width="3" stroke="black" fill="none" id="svg_4"/>
+ </g>
+</svg>
