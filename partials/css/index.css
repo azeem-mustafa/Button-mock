@@ -1,0 +1,41 @@
+.btn {
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+  padding: 0.313rem 0.625rem;
+  background: #3D3F42;
+  border: none;
+  border-radius: 0.25rem;
+}
+
+.svg {
+  width: 1.125rem;
+  height: 1.125rem;
+  fill: #A6A7A9;
+  stroke: #A6A7A9;
+  transition: 0.2s all;
+  padding-right: 0.313rem;
+}
+
+.btn span {
+  font-family: "Inter", sans-serif;
+  font-size: 0.772rem;
+  font-weight: 700;
+  color: #A6A7A9;
+  transition: 0.2s all;
+}
+
+.btn:hover, .btn:hover svg, .btn:hover span {
+  background: #515357;
+  fill: #FCFCFC;
+  stroke: #FCFCFC;
+  color: #FCFCFC;
+  transition: 0.2s all;
+}
+
+.btn:active, .btn:active svg, .btn:active span {
+  background: #D1D1D2;
+  fill: #3B3D42;
+  stroke: #3B3D42;
+  color: #3B3D42;
+}/*# sourceMappingURL=index.css.map */
